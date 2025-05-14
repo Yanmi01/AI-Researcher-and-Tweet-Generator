@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository provides a command-line tool that:
+This repository provides an Agent that:
 
 1. Searches the web for a given research query.
 
 2. Synthesizes an in-depth report based on the retrieved snippet.
 
-3. Generates a set of concise tweets summarizing the findings.
+3. Generates a set of concise tweets about the findings.
 
 4. Offers a human-in-the-loop approval step with automated sanity checks and audit logging.
   
