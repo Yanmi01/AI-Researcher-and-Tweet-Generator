@@ -1,0 +1,7 @@
+langchain-core
+langchain-ollama
+langchain-agents
+langgraph
+
+requests
+python-dotenv
