@@ -42,10 +42,10 @@ It was built with:
    ```
 4. Add your Serper Api key to your .env file
 
-##Usage
+## Usage
 Run the CLI
 ```bash
-        python main.py
+        python src/main.py
 ```
 The interactive prompts will guide you through:
 1. Enter your sesarch query
@@ -55,7 +55,7 @@ The interactive prompts will guide you through:
 
 Audit logs are saved to the review_log.csv file
 
-## Before using the repo:
+## Before Using the Repo
 The repo utilizes Gemma2b via Ollama. Therefore, to be able to use the repo conveniently, ensure:
 1. Ollama is running underground
 2. You have pulled Gemma 2b.
